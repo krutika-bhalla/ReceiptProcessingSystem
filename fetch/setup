@@ -1,0 +1,3 @@
+mkdir receipt-processor
+cd receipt-processor
+go mod init receipt-processor 
